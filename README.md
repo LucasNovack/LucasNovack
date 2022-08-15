@@ -6,8 +6,6 @@ At this point, i'm focused in learning and mastering vanilla Javascript.
 My next goal is to learn the follow frameworks:
 
 React,
-Node.JS, 
-Vue.JS,
 Bootstrap, 
 SASS
 
