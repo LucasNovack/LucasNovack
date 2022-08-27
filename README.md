@@ -5,8 +5,8 @@ At this point, i'm focused in learning and mastering <b>Front-End Development</b
 
 My next goal is to learn the follow frameworks:
 
-React,
-Bootstrap, 
-SASS
+<p>React,</p>
+<p>Bootstrap,</p>
+<p>SASS</p>
 
 If you want, you can reach me on my LinkedIn (https://www.linkedin.com/in/lucas-novack-6061881ba/)
