@@ -5,6 +5,8 @@ At this point, i'm focused in learning and getting deeper in some topics.
 
 At this moment, i'm learning:
 
-- Flutter (with Dart)
+- JavaScript, HTML, CSS
+- PL/SQL
+- JAVA
 
 If you want, you can reach me on my LinkedIn (https://www.linkedin.com/in/lucas-novack-6061881ba/)
