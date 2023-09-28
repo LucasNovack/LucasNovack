@@ -1,7 +1,8 @@
 <h1>Hello, I’m @LucasNovack!</h1>
 
-I am a 20 years old guy from Brazil that really likes IT and software development.
 At this point, i'm focused in learning and getting deeper in some topics.
+
+Most of my projects are spread on random shady deep repos, maybe someday i post them here.
 
 At this moment, i'm learning:
 
