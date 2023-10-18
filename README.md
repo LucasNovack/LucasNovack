@@ -1,13 +1,13 @@
 <h1>Hello, I’m @LucasNovack!</h1>
 
-At this point, i'm focused in learning and getting deeper in some topics.
+At this point, i'm focused on learning and getting deeper into some topics.
 
-Most of my projects are spread on random shady deep repos, maybe someday i post them here.
+I usually use JavaScript and its tools on my personal projects, but i'm open to any new language.
 
-At this moment, i'm learning:
+For context, i use the following languages in my job
 
-- JavaScript, HTML, CSS
-- PL/SQL
-- JAVA
+- Javascript
+- Java
+- PL/SQL (and SQL in general).
 
 If you want, you can reach me on my LinkedIn (https://www.linkedin.com/in/lucas-novack-6061881ba/)
