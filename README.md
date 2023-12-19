@@ -1,13 +1,9 @@
 <h1>Hello, I’m @LucasNovack!</h1>
 
-At this point, i'm focused on learning and getting deeper into some topics.
+At this point, i'm changing my focus to a completely new area.
 
-I usually use JavaScript and its tools on my personal projects, but i'm open to any new language.
+Since 12/2023, i accepted a new challenge in the data engineering and analysis area.
 
-For context, i use the following languages in my job
-
-- Javascript
-- Java
-- PL/SQL (and SQL in general).
+Currently using Python, Spark, Airflow and a bunch of cool data stuff.
 
 If you want, you can reach me on my LinkedIn (https://www.linkedin.com/in/lucas-novack-6061881ba/)
