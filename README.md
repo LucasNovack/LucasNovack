@@ -6,4 +6,4 @@ Since 12/2023, i accepted a new challenge in the data engineering and analysis a
 
 Currently using Python, Spark, Airflow and a bunch of cool data stuff.
 
-If you want, you can reach me on my LinkedIn (https://www.linkedin.com/in/lucas-novack-6061881ba/)
+If you want, you can reach me on my LinkedIn ([LucasNovack](https://www.linkedin.com/in/lucasnovack/))
